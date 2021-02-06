@@ -31,7 +31,7 @@ body{
     position: absolute;
     object-fit: cover;
     border-radius: 50%;
-    opacity: 0.6;
+    opacity: 0.8;
     overflow: hidden;
 }
 .clock .number{
